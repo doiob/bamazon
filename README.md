@@ -1,8 +1,9 @@
 # bamazon
 
 Images
- before.PNG : 	Table values before execution
- exec.png 	: 	Script execution and update
- after.png  :	Values after script execution
- db.PNG 	: 	Database creation commands
- sql.png 	:	Inserted data
+ before.PNG : 	Table values before execution<br>
+ exec.png 	: 	Script execution and update<br>
+ after.png  :	Values after script execution<br>
+ db.PNG 	: 	Database creation commands<br>
+ sql.png 	:	Inserted data<br>
+app.sql 	: 	sql command file.
